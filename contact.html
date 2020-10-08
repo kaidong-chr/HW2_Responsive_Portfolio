@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/css/reset.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <title>Contact</title>
 </head>
 <body>
@@ -16,31 +16,49 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarText">
           <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact</a>
+            </li>
             <li class="nav-item active">
-              <a class="nav-link" href="#">Contact</a>
+              <a class="nav-link" href="portfolio.html">Portfolio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Portfolio</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+                <a class="nav-link" href="index.html">About</a>
             </li>
           </ul>
         </div>
-      </nav>
+    </nav>
 
-    <h1>Contact</h1>
+    <!-- Contact Form -->
+    <div class="container mt-5 p-3 bg-info text-white">
+        <div class="row" >
+            <div class="col-md-12 col-lg-12">
 
-    <div class="container-fluid">
+                <div class="container">
+                    <div class="col-md-8 col-lg-11">
 
-        <!-- Hmm -->
-          <div class="row" >
-            <div class="col-sm-8">
-                <p>
-                    Still planning.
-                </p>
+                        <h1 class="text-dark">Contact</h1>
+                        <form>
+                            <div class="form-group">
+                                <label for="FullName">Full Name</label>
+                                <input type="text" class="form-control" id="FullName" placeholder="Full Name">
+                            </div>
+                            <div class="form-group">
+                                <label for="Email">Email</label>
+                                <input type="text" class="form-control" id="Email" placeholder="Email">
+                            </div>
+                            <div class="form-group">
+                                <label for="Message">Message</label>
+                                <textarea type="text" class="form-control" id="Message" placeholder="Message"></textarea>
+                            </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                        </form> 
+                    
+                    </div>
+                </div>
             </div>
-          </div>
+        </div>
+    </div>
 
 </body>
 </html>
