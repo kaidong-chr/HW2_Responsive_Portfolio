@@ -44,7 +44,7 @@ Prefered application and version controlled system.
 To contribute clone from the repo.
 You can also fork or download from the repo, if you prefer to view or edit this in your own space.
 
-[![HitCount](https://img.shields.io/github/search/kaidong-chr/HW2_Responsive_Portoflio/search)](https://img.shields.io/github/search/kaidong-chr/HW2_Responsive_Portoflio/search})
+[![HitCount](https://img.shields.io/github/search/kaidong-chr/HW2_Responsive_Portfolio/search)](https://img.shields.io/github/search/kaidong-chr/HW2_Responsive_Portfolio/})
 
 ### Credits
 
