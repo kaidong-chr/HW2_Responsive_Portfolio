@@ -1,7 +1,15 @@
 # Responsive Portfolio
 
 ### Overview
-Utilize bootstrap as the main source of CSS to create a responsive portfolio page.
+Utilize bootstrap as the main source of CSS to create a responsive portfolio page, with minimal usage of media queries.
+
+### Implementation
+* Utilize semantic elements in HTML
+* Use bootstrap to style portfolio, include usage of navbar, sticky footer, forms, grids and rows.
+* Use bootstrap's column sizing to minmize media query usage
+* Validate HTML with W3C Validator Service to ensure there are no errors.
+
+[Portoflio Webpage Link](https://kaidong-chr.github.io/HW2_Responsive_Portfolio/)
 
 ### Responsive Screenshots
 
@@ -23,8 +31,7 @@ At 400px
 ![Image](./assets/Images/contact_400.png "Contact400")
 <br>
 ![Image](https://img.shields.io/badge/Languages-html%20%7C%20css%20-yellow)
-<br>
-[Portoflio Web Page Link](https://kaidong-chr.github.io/HW2_Responsive_Portfolio//)
+
 
 ### Installation
 
@@ -42,6 +49,8 @@ You can also fork or download from the repo, if you prefer to view or edit this 
 ### Credits
 
 * Trilogy Education Services
+* W3Schools
+* Bootstrap
 
 ### License
 
