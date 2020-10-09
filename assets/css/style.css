@@ -3,6 +3,7 @@
 /* Background Image */
 #background {
 	background-image: url('../Images/background.jpg');
+	background-attachment: fixed;
 	background-size: cover;
 }
 
