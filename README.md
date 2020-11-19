@@ -1,4 +1,4 @@
-# Responsive Portfolio
+# My Portfolio
 
 ### Portfolio Page
 
@@ -22,11 +22,6 @@
 Preferred application and version controlled system.
 * Visual Studio Code - https://code.visualstudio.com/download
 * Git - https://git-scm.com/downloads
-
-### Contributing
-
-To contribute clone from the repo.
-You can also fork or download from the repo, if you prefer to view or edit this in your own space.
 
 [![HitCount](https://img.shields.io/github/search/kaidong-chr/My_Portfolio/search)](https://img.shields.io/github/search/kaidong-chr/My_Portfolio/})
 
