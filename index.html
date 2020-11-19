@@ -1,85 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
     <title>About</title>
-</head>
+  </head>
 
-<body id="background">
-
+  <body id="background">
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand">
-            <h3>Kai Dong</h3>
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
-            aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarText">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                    <a class="nav-link active" href="index.html">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="portfolio.html">Portfolio</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact</a>
-                </li>
-            </ul>
-        </div>
+      <a class="navbar-brand">
+        <h3>Kai Dong</h3>
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarText"
+        aria-controls="navbarText"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link active" href="index.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="portfolio.html">Portfolio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
     </nav>
 
     <!-- Container to define inital grid -->
     <section class="container">
+      <!-- First row and column defined for responsiveness-->
+      <div class="row">
+        <div class="col-md-8 col-lg-8">
+          <!-- Sub container and column defined for fitment and style -->
+          <div class="container mt-5 mb-5 p-3 bg-info text-white">
+            <div class="col-md-12 col-lg-12">
+              <!-- About Me -->
+              <h1 class="text-dark">About Me</h1>
 
-        <!-- First row and column defined for responsiveness-->
-        <div class="row">
-            <div class="col-md-8 col-lg-8">
-
-                <!-- Sub container and column defined for fitment and style -->
-                <div class="container mt-5 mb-5 p-3 bg-info text-white">
-                    <div class="col-md-12 col-lg-12">
-
-                        <!-- About Me -->
-                        <h1 class="text-dark">About Me</h1>
-
-                        <!-- Horizontal rule -->
-                        <div class='row'>
-                            <div class='col-sm-12'>
-                                <hr>
-                            </div>
-                        </div>
-
-                        <!-- Short Bio -->
-                        <img src="./assets/Images/ProfilePicture.jpg" alt="place holder image"
-                            class="float-left mr-3 w-25" />
-                        <p>
-                            My name is Kai, I was born in China, I've lived in Minnesota for most of my life. I have
-                            been in IT for the past 7 years, currently I am a Monitoring Platforms Admin. My team is
-                            responsible for building, maintaining and supporting tools that monitors both hardware and
-                            software in our enterprise. I decided to join the coding boot camp because I've always had
-                            an interest in web development, and this is also a great opportunity to strengthen my coding skills. My
-                            interests are photography, cooking, cars and video games.
-                        </p>
-                    </div>
+              <!-- Horizontal rule -->
+              <div class="row">
+                <div class="col-sm-12">
+                  <hr />
                 </div>
+              </div>
+
+              <!-- Short Bio -->
+              <img
+                src="./assets/Images/ProfilePicture.jpg"
+                alt="place holder image"
+                class="float-left mr-3 w-25"
+              />
+              <p>
+                My name is Kai, I was born in China, I've lived in Minnesota for
+                most of my life. I have been in IT for the past 7 years,
+                currently I am a Monitoring Platforms Admin. My team is
+                responsible for building, maintaining and supporting tools that
+                monitors both hardware and software in our enterprise. I decided
+                to join the coding boot camp because I've always had an interest
+                in web development, and this is also a great opportunity to
+                strengthen my coding skills. I hope to apply this knowledge in
+                my current role and learn all that I can. My other interests are photography,
+                cooking, cars and video games.
+              </p>
             </div>
+          </div>
         </div>
+      </div>
     </section>
 
     <!-- Footer -->
     <footer class="footer fixed-bottom mt-5 py-1 bg-dark">
-        <div class="container">
-            <!-- <p class="text-center text-muted">Add something here later</p> -->
-        </div>
+      <div class="container">
+        <!-- <p class="text-center text-muted">Add something here later</p> -->
+      </div>
     </footer>
-
-</body>
-
+  </body>
 </html>
