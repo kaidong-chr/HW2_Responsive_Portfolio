@@ -1,12 +1,13 @@
 # My Portfolio
 
 ### Portfolio Page
-
+Welcome to my portfolio page, you will find biography, linkedIn and Github links, my resume, some projects that I have done with their repos and a contact me page. This portfolio is a work in progress, more will get added as more knowledge is gained.
 
 ### Implementation
-* Utilize semantic elements in HTML
+* Utilize semantic elements in HTML.
 * Use bootstrap to style portfolio, include usage of navbar, sticky footer, forms, grids and rows.
-* Use bootstrap's column sizing to minimize media query usage
+* Use bootstrap's column sizing to eliminate query usage.
+* jQuery for repo link click functions. 
 * Validate HTML with W3C Validator Service to ensure there are no errors.
 
 [Portfolio Webpage Link](https://kaidong-chr.github.io/My_Portfolio/)
