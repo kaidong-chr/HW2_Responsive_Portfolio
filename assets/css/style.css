@@ -22,6 +22,11 @@ img:hover {
 	opacity: 75%;
 }
 
+h3:hover {
+	color: lightgray;
+	transition: background-color 2s;
+}
+
 .fa-linkedin-in {
 	padding: 5px;
 }
