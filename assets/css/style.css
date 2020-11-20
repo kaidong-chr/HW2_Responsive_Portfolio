@@ -16,8 +16,10 @@ u:hover {
 }
 
 img:hover {
-	background-color: whitesmoke;
+	background-color: wheat;
 	transition: background-color 1s;
+	border-radius: 4px;
+	opacity: 75%;
 }
 
 .fa-linkedin-in {
@@ -36,7 +38,7 @@ img:hover {
 
 iframe {
 	width: 100%;
-    height: 300px;
+    height: -webkit-fill-available;
 }
 
 /* May use later */
