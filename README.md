@@ -13,7 +13,7 @@
 
 ### Portfolio Demo
 
-![Image](./assets/Images/My_Portfolio "Portfolio Demo")
+![Image](./assets/Images/My_Portfolio.gif "Portfolio Demo")
 
 ![Image](https://img.shields.io/badge/Languages-html%20%7C%20css%20-yellow)
 
