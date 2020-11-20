@@ -16,7 +16,7 @@ Welcome to my portfolio page, you will find my biography with links to linkedIn,
 
 ![Image](./assets/Images/My_Portfolio.gif "Portfolio Demo")
 
-![Image](https://img.shields.io/badge/Languages-html%20%7C%20css%20-yellow)
+![Image](https://img.shields.io/badge/Languages-html%20%7C%20css%20%7C%20javascript-yellow)
 
 ### Installation
 

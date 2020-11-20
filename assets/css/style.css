@@ -17,7 +17,7 @@ u:hover {
 
 img:hover {
 	background-color: wheat;
-	transition: background-color 1s;
+	transition: background-color .5s;
 	border-radius: 4px;
 	opacity: 75%;
 }
