@@ -7,6 +7,10 @@
 	background-size: cover;
 }
 
+.container {
+	border-radius: 4px;
+}
+
 u:hover {
 	color: gray;
 }
@@ -28,6 +32,11 @@ img:hover {
 .fa-github:hover {
 	opacity: 70%;
 	transition: background-color 1s;
+}
+
+iframe {
+	width: 100%;
+    height: 300px;
 }
 
 /* May use later */
