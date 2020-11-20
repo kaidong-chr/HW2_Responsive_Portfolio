@@ -6,7 +6,7 @@ Welcome to my portfolio page, you will find my biography with links to linkedIn,
 ### Implementation
 * Utilize semantic elements in HTML.
 * Use bootstrap to style portfolio, include usage of navbar, sticky footer, forms, grids and rows.
-* Use bootstrap's column sizing to eliminate query usage.
+* Use bootstrap's column sizing to eliminate media query usage.
 * jQuery for repo link click functions. 
 * Validate HTML with W3C Validator Service to ensure there are no errors.
 
