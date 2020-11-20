@@ -1,7 +1,7 @@
 # My Portfolio
 
 ### Portfolio Page
-Welcome to my portfolio page, you will find my biography with links to linkedIn, Github, and my resume in the About tab. Past projects with repos links can be found on the Portfolio tab and Contact tab you will find a place to enter you contact info. This portfolio is a work in progress, more will get added in the future.
+Welcome to my portfolio page, you will find my biography with links to linkedIn, Github, and my resume in the About page. Past projects with repository links can be found on the Portfolio page and you will find a place to enter you contact info in the Contact page. This portfolio is a work in progress, more will get added in the future.
 
 ### Implementation
 * Utilize semantic elements in HTML.
