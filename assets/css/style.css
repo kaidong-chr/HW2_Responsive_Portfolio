@@ -16,6 +16,20 @@ img:hover {
 	transition: background-color 1s;
 }
 
+.fa-linkedin-in {
+	padding: 5px;
+}
+
+.fa-github {
+	color: lightgray;
+	padding: 5px;
+}
+
+.fa-github:hover {
+	opacity: 80%;
+	transition: background-color 1s;
+}
+
 /* May use later */
 
 /* h1 {
